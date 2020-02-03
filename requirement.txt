@@ -1,0 +1,7 @@
+numpy
+numpy_indexed
+tensorflow-gpu
+keras
+opencv-python
+pillow
+h5py
